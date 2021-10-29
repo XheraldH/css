@@ -1,0 +1,11 @@
+/*display*/
+.d-flex{ display: flex; }
+
+/*flex*/
+.flex-grow{flex-grow: 1; }
+
+/*align och justify*/
+.justify-content-between { justify-content: space-between ;}
+.align-items-center { align-content: center;}
+
+/**/
